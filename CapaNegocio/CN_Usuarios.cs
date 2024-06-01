@@ -3,10 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using CapaDatos;
+using CapaEntidad;
 namespace CapaNegocio
 {
-    internal class CN_Usuarios
+    public class CN_Usuarios
     {
+        private CN_Usuarios objCapaDato = new CN_Usuarios();
+
+        public List<Usuario> Listar()
+        {
+            return objCapaDato.Listar();
+        }
     }
 }
