@@ -3,13 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using 
 
-
-namespace CapaDatos
+namespace CapaNegocio
 {
-    public class Conexion
+    internal class CN_Usuarios
     {
-        public static string cn=
     }
 }
