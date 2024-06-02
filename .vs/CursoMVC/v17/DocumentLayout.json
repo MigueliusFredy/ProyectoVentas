@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\demig\\source\\repos\\CursoMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E2C4B39-C6B0-4A96-8E60-64CA11E92510}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\demig\\source\\repos\\cursomvc\\capanegocio\\cn_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E2C4B39-C6B0-4A96-8E60-64CA11E92510}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC1DDD42-B792-4B7A-9C79-E48099ACCE95}|CapaDatos\\CapaDatos.csproj|c:\\users\\demig\\source\\repos\\cursomvc\\capadatos\\cd_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC1DDD42-B792-4B7A-9C79-E48099ACCE95}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|C:\\Users\\demig\\source\\repos\\CursoMVC\\presentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|solutionrelative:presentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|C:\\Users\\demig\\source\\repos\\CursoMVC\\presentacionadmin\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|solutionrelative:presentacionadmin\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|C:\\Users\\demig\\source\\repos\\CursoMVC\\presentacionadmin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|solutionrelative:presentacionadmin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC1DDD42-B792-4B7A-9C79-E48099ACCE95}|CapaDatos\\CapaDatos.csproj|c:\\users\\demig\\source\\repos\\cursomvc\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC1DDD42-B792-4B7A-9C79-E48099ACCE95}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|c:\\users\\demig\\source\\repos\\cursomvc\\presentacionadmin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|solutionrelative:presentacionadmin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|C:\\Users\\demig\\source\\repos\\CursoMVC\\presentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|solutionrelative:presentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|c:\\users\\demig\\source\\repos\\cursomvc\\presentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|solutionrelative:presentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +18,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "RelativeDocumentMoniker": "PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "RelativeToolTip": "PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACQAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T16:02:45.338Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -66,106 +56,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CN_Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\CapaNegocio\\CN_Usuarios.cs",
-              "RelativeDocumentMoniker": "CapaNegocio\\CN_Usuarios.cs",
-              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\CapaNegocio\\CN_Usuarios.cs",
-              "RelativeToolTip": "CapaNegocio\\CN_Usuarios.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T19:08:18.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CD_Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\CapaDatos\\CD_Usuarios.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\CD_Usuarios.cs",
-              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\CapaDatos\\CD_Usuarios.cs",
-              "RelativeToolTip": "CapaDatos\\CD_Usuarios.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAgwCYAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T18:07:27.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Web.config",
-              "RelativeDocumentMoniker": "PresentacionAdmin\\Web.config",
-              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Web.config",
-              "RelativeToolTip": "PresentacionAdmin\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-01T18:04:08.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\CapaDatos\\Conexion.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
-              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\CapaDatos\\Conexion.cs",
-              "RelativeToolTip": "CapaDatos\\Conexion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T16:22:51.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PresentacionAdmin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PresentacionAdmin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T16:06:39.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Usuarios.cshtml",
-              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
-              "RelativeDocumentMoniker": "PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
-              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
-              "RelativeToolTip": "PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T16:02:45.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "PresentacionAdmin\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Controllers\\HomeController.cs",
               "RelativeToolTip": "PresentacionAdmin\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T16:00:28.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABwAAAAAAAAAAAAUwDAAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T15:45:50.023Z",
+              "WhenOpened": "2024-06-01T22:06:19.501Z",
               "EditorCaption": ""
             }
           ]
