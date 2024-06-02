@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\demig\\source\\repos\\CursoMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|c:\\users\\demig\\source\\repos\\cursomvc\\presentacionadmin\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|solutionrelative:presentacionadmin\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|C:\\Users\\demig\\source\\repos\\CursoMVC\\presentacionadmin\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|solutionrelative:presentacionadmin\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2C4B39-C6B0-4A96-8E60-64CA11E92510}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\demig\\source\\repos\\CursoMVC\\capanegocio\\cn_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2C4B39-C6B0-4A96-8E60-64CA11E92510}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2C4B39-C6B0-4A96-8E60-64CA11E92510}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\demig\\source\\repos\\CursoMVC\\capanegocio\\cn_recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2C4B39-C6B0-4A96-8E60-64CA11E92510}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_recursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|C:\\Users\\demig\\source\\repos\\CursoMVC\\presentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|solutionrelative:presentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|C:\\Users\\demig\\source\\repos\\CursoMVC\\presentacionadmin\\views\\mantenedor\\marca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|solutionrelative:presentacionadmin\\views\\mantenedor\\marca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|C:\\Users\\demig\\source\\repos\\CursoMVC\\presentacionadmin\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|solutionrelative:presentacionadmin\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|c:\\users\\demig\\source\\repos\\cursomvc\\presentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|C:\\Users\\demig\\source\\repos\\CursoMVC\\presentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28FA5BF4-25C8-429C-9A1F-AE67B44F684D}|PresentacionAdmin\\PresentacionAdmin.csproj|solutionrelative:presentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1DDD42-B792-4B7A-9C79-E48099ACCE95}|CapaDatos\\CapaDatos.csproj|C:\\Users\\demig\\source\\repos\\CursoMVC\\capadatos\\cd_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1DDD42-B792-4B7A-9C79-E48099ACCE95}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,22 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Usuarios.cshtml",
-              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
-              "RelativeDocumentMoniker": "PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
-              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
-              "RelativeToolTip": "PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACQAAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T16:02:45.338Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -56,16 +70,112 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "PresentacionAdmin\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "PresentacionAdmin\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T01:50:27.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "PresentacionAdmin\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "PresentacionAdmin\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T01:50:23.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T01:50:13.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Marca.cshtml",
+              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Mantenedor\\Marca.cshtml",
+              "RelativeDocumentMoniker": "PresentacionAdmin\\Views\\Mantenedor\\Marca.cshtml",
+              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Mantenedor\\Marca.cshtml",
+              "RelativeToolTip": "PresentacionAdmin\\Views\\Mantenedor\\Marca.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T01:50:09.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "RelativeDocumentMoniker": "PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "RelativeToolTip": "PresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T01:50:06.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CN_Recursos.cs",
+              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\CapaNegocio\\CN_Recursos.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Recursos.cs",
+              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\CapaNegocio\\CN_Recursos.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Recursos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T01:29:58.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CD_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\CapaDatos\\CD_Usuarios.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Usuarios.cs",
+              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\CapaDatos\\CD_Usuarios.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Usuarios.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAYwJcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:31:29.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CN_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\CapaNegocio\\CN_Usuarios.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Usuarios.cs",
+              "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\CapaNegocio\\CN_Usuarios.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Usuarios.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T01:15:42.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "PresentacionAdmin\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\demig\\source\\repos\\CursoMVC\\PresentacionAdmin\\Controllers\\HomeController.cs",
               "RelativeToolTip": "PresentacionAdmin\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAkwBkAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T22:06:19.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T22:06:19.501Z"
             }
           ]
         }
